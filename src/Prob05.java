@@ -60,11 +60,7 @@ public class Prob05
 					{
 						System.out.print("*");
 					}
-					if(k != al.size() - 1)
-					{
-						System.out.println();
-					}
-					
+					System.out.println();					
 				}
 			}
 
